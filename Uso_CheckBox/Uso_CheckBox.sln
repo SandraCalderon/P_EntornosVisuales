@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Uso_CheckBox", "Uso_CheckBox.vbproj", "{12E242A1-36D1-469F-86F4-6673C4A36C00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12E242A1-36D1-469F-86F4-6673C4A36C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E242A1-36D1-469F-86F4-6673C4A36C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E242A1-36D1-469F-86F4-6673C4A36C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E242A1-36D1-469F-86F4-6673C4A36C00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F9EF23B-2313-4198-8DF8-1FC55D886C16}
+	EndGlobalSection
+EndGlobal
