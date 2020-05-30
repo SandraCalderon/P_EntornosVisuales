@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CA61186C-0FCE-4512-899B-EEB4B6161A83}</ProjectGuid>
+    <ProjectGuid>{D6BE6D76-F48F-44AA-8CAA-23EBBFAC40A1}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>PrimerParcial.My.MyApplication</StartupObject>
-    <RootNamespace>PrimerParcial</RootNamespace>
-    <AssemblyName>PrimerParcial</AssemblyName>
+    <StartupObject>Factura_Sencilla.My.MyApplication</StartupObject>
+    <RootNamespace>Factura_Sencilla</RootNamespace>
+    <AssemblyName>Factura_Sencilla</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
@@ -22,7 +22,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>PrimerParcial.xml</DocumentationFile>
+    <DocumentationFile>Factura_Sencilla.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -32,7 +32,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>PrimerParcial.xml</DocumentationFile>
+    <DocumentationFile>Factura_Sencilla.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
@@ -73,24 +73,17 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Ejercicios Tareas\Factura_Sencilla.Designer.vb">
-      <DependentUpon>Factura_Sencilla.vb</DependentUpon>
-    </Compile>
-    <Compile Include="Ejercicios Tareas\Factura_Sencilla.vb">
+    <Compile Include="Form1.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="primerParcial.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="primerParcial.Designer.vb">
-      <DependentUpon>primerParcial.vb</DependentUpon>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
       <DependentUpon>Application.myapp</DependentUpon>
-      <DesignTime>True</DesignTime>
     </Compile>
     <Compile Include="My Project\Resources.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -104,11 +97,8 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Ejercicios Tareas\Factura_Sencilla.resx">
-      <DependentUpon>Factura_Sencilla.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="primerParcial.resx">
-      <DependentUpon>primerParcial.vb</DependentUpon>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
