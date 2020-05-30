@@ -73,6 +73,12 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Ejercicios Tareas\Factura_Sencilla.Designer.vb">
+      <DependentUpon>Factura_Sencilla.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicios Tareas\Factura_Sencilla.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="primerParcial.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -97,6 +103,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Ejercicios Tareas\Factura_Sencilla.resx">
+      <DependentUpon>Factura_Sencilla.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="primerParcial.resx">
       <DependentUpon>primerParcial.vb</DependentUpon>
     </EmbeddedResource>

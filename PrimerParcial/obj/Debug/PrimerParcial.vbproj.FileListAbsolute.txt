@@ -1,0 +1,13 @@
+C:\Users\Pascall\Documents\programasentonosvisuales\PrimerParcial\bin\Debug\PrimerParcial.exe.config
+C:\Users\Pascall\Documents\programasentonosvisuales\PrimerParcial\bin\Debug\PrimerParcial.exe
+C:\Users\Pascall\Documents\programasentonosvisuales\PrimerParcial\bin\Debug\PrimerParcial.pdb
+C:\Users\Pascall\Documents\programasentonosvisuales\PrimerParcial\bin\Debug\PrimerParcial.xml
+C:\Users\Pascall\Documents\programasentonosvisuales\PrimerParcial\obj\Debug\PrimerParcial.vbprojAssemblyReference.cache
+C:\Users\Pascall\Documents\programasentonosvisuales\PrimerParcial\obj\Debug\PrimerParcial.Factura_Sencilla.resources
+C:\Users\Pascall\Documents\programasentonosvisuales\PrimerParcial\obj\Debug\PrimerParcial.PrimerParcial.resources
+C:\Users\Pascall\Documents\programasentonosvisuales\PrimerParcial\obj\Debug\PrimerParcial.Resources.resources
+C:\Users\Pascall\Documents\programasentonosvisuales\PrimerParcial\obj\Debug\PrimerParcial.vbproj.GenerateResource.cache
+C:\Users\Pascall\Documents\programasentonosvisuales\PrimerParcial\obj\Debug\PrimerParcial.vbproj.CoreCompileInputs.cache
+C:\Users\Pascall\Documents\programasentonosvisuales\PrimerParcial\obj\Debug\PrimerParcial.exe
+C:\Users\Pascall\Documents\programasentonosvisuales\PrimerParcial\obj\Debug\PrimerParcial.xml
+C:\Users\Pascall\Documents\programasentonosvisuales\PrimerParcial\obj\Debug\PrimerParcial.pdb
