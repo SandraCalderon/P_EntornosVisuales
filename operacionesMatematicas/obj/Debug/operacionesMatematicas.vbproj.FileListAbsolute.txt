@@ -1,0 +1,12 @@
+C:\Users\Pascall\Documents\programasentonosvisuales\operacionesMatematicas\bin\Debug\operacionesMatematicas.exe.config
+C:\Users\Pascall\Documents\programasentonosvisuales\operacionesMatematicas\bin\Debug\operacionesMatematicas.exe
+C:\Users\Pascall\Documents\programasentonosvisuales\operacionesMatematicas\bin\Debug\operacionesMatematicas.pdb
+C:\Users\Pascall\Documents\programasentonosvisuales\operacionesMatematicas\bin\Debug\operacionesMatematicas.xml
+C:\Users\Pascall\Documents\programasentonosvisuales\operacionesMatematicas\obj\Debug\operacionesMatematicas.vbprojAssemblyReference.cache
+C:\Users\Pascall\Documents\programasentonosvisuales\operacionesMatematicas\obj\Debug\operacionesMatematicas.Form1.resources
+C:\Users\Pascall\Documents\programasentonosvisuales\operacionesMatematicas\obj\Debug\operacionesMatematicas.Resources.resources
+C:\Users\Pascall\Documents\programasentonosvisuales\operacionesMatematicas\obj\Debug\operacionesMatematicas.vbproj.GenerateResource.cache
+C:\Users\Pascall\Documents\programasentonosvisuales\operacionesMatematicas\obj\Debug\operacionesMatematicas.vbproj.CoreCompileInputs.cache
+C:\Users\Pascall\Documents\programasentonosvisuales\operacionesMatematicas\obj\Debug\operacionesMatematicas.exe
+C:\Users\Pascall\Documents\programasentonosvisuales\operacionesMatematicas\obj\Debug\operacionesMatematicas.xml
+C:\Users\Pascall\Documents\programasentonosvisuales\operacionesMatematicas\obj\Debug\operacionesMatematicas.pdb

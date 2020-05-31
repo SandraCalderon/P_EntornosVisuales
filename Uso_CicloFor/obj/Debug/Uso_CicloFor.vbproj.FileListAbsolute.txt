@@ -1,0 +1,12 @@
+C:\Users\Pascall\Documents\programasentonosvisuales\Uso_CicloFor\obj\Debug\Uso_CicloFor.vbprojAssemblyReference.cache
+C:\Users\Pascall\Documents\programasentonosvisuales\Uso_CicloFor\obj\Debug\Uso_CicloFor.Form1.resources
+C:\Users\Pascall\Documents\programasentonosvisuales\Uso_CicloFor\obj\Debug\Uso_CicloFor.Resources.resources
+C:\Users\Pascall\Documents\programasentonosvisuales\Uso_CicloFor\obj\Debug\Uso_CicloFor.vbproj.GenerateResource.cache
+C:\Users\Pascall\Documents\programasentonosvisuales\Uso_CicloFor\obj\Debug\Uso_CicloFor.vbproj.CoreCompileInputs.cache
+C:\Users\Pascall\Documents\programasentonosvisuales\Uso_CicloFor\bin\Debug\Uso_CicloFor.exe.config
+C:\Users\Pascall\Documents\programasentonosvisuales\Uso_CicloFor\bin\Debug\Uso_CicloFor.exe
+C:\Users\Pascall\Documents\programasentonosvisuales\Uso_CicloFor\bin\Debug\Uso_CicloFor.pdb
+C:\Users\Pascall\Documents\programasentonosvisuales\Uso_CicloFor\bin\Debug\Uso_CicloFor.xml
+C:\Users\Pascall\Documents\programasentonosvisuales\Uso_CicloFor\obj\Debug\Uso_CicloFor.exe
+C:\Users\Pascall\Documents\programasentonosvisuales\Uso_CicloFor\obj\Debug\Uso_CicloFor.xml
+C:\Users\Pascall\Documents\programasentonosvisuales\Uso_CicloFor\obj\Debug\Uso_CicloFor.pdb

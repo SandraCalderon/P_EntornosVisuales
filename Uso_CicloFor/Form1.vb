@@ -1,4 +1,10 @@
-﻿Public Class Form1
+﻿Imports System.ComponentModel
+
+Public Class Form1
+
+
+
+
     Private Sub btnGenerar_Click(sender As Object, e As EventArgs) Handles btnGenerar.Click
 
 

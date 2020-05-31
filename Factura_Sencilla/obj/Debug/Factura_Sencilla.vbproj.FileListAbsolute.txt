@@ -1,0 +1,12 @@
+C:\Users\Pascall\Documents\programasentonosvisuales\Factura_Sencilla\bin\Debug\Factura_Sencilla.exe.config
+C:\Users\Pascall\Documents\programasentonosvisuales\Factura_Sencilla\bin\Debug\Factura_Sencilla.exe
+C:\Users\Pascall\Documents\programasentonosvisuales\Factura_Sencilla\bin\Debug\Factura_Sencilla.pdb
+C:\Users\Pascall\Documents\programasentonosvisuales\Factura_Sencilla\bin\Debug\Factura_Sencilla.xml
+C:\Users\Pascall\Documents\programasentonosvisuales\Factura_Sencilla\obj\Debug\Factura_Sencilla.vbprojAssemblyReference.cache
+C:\Users\Pascall\Documents\programasentonosvisuales\Factura_Sencilla\obj\Debug\Factura_Sencilla.Form1.resources
+C:\Users\Pascall\Documents\programasentonosvisuales\Factura_Sencilla\obj\Debug\Factura_Sencilla.Resources.resources
+C:\Users\Pascall\Documents\programasentonosvisuales\Factura_Sencilla\obj\Debug\Factura_Sencilla.vbproj.GenerateResource.cache
+C:\Users\Pascall\Documents\programasentonosvisuales\Factura_Sencilla\obj\Debug\Factura_Sencilla.vbproj.CoreCompileInputs.cache
+C:\Users\Pascall\Documents\programasentonosvisuales\Factura_Sencilla\obj\Debug\Factura_Sencilla.exe
+C:\Users\Pascall\Documents\programasentonosvisuales\Factura_Sencilla\obj\Debug\Factura_Sencilla.xml
+C:\Users\Pascall\Documents\programasentonosvisuales\Factura_Sencilla\obj\Debug\Factura_Sencilla.pdb
