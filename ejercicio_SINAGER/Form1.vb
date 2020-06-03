@@ -10,7 +10,12 @@
             txtDepartamentos.Focus()
             Exit Sub
         End If
-
+        If Not IsNumeric(txtDepartamentos.Text) Then
+            MessageBox.Show("El numero de departamentos debe ser un numero entre 1 - 18", "Departamentos", MessageBoxButtons.OK, MessageBoxIcon.Error)
+            txtDepartamentos.Clear()
+            txtDepartamentos.Focus()
+            Exit Sub
+        End If
         For i = 1 To departamentos Step 1
             Do
                 Try
