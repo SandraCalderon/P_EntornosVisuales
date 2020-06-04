@@ -28,3 +28,5 @@ C:\Users\Pascall\Documents\ejercicostareas\TAREA_PEDIDOS_E_Inventario\obj\Debug\
 C:\Users\Pascall\Documents\ejercicostareas\TAREA_PEDIDOS_E_Inventario\obj\Debug\TAREA_PEDIDOS_E_Inventario.exe
 C:\Users\Pascall\Documents\ejercicostareas\TAREA_PEDIDOS_E_Inventario\obj\Debug\TAREA_PEDIDOS_E_Inventario.xml
 C:\Users\Pascall\Documents\ejercicostareas\TAREA_PEDIDOS_E_Inventario\obj\Debug\TAREA_PEDIDOS_E_Inventario.pdb
+C:\Users\Pascall\Documents\ejercicostareas\TAREA_PEDIDOS_E_Inventario\bin\Debug\TAREA_PEDIDOS_E_Inventario.pdb
+C:\Users\Pascall\Documents\ejercicostareas\TAREA_PEDIDOS_E_Inventario\bin\Debug\TAREA_PEDIDOS_E_Inventario.xml
