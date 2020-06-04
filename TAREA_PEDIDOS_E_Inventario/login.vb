@@ -22,13 +22,13 @@
     End Sub
 
     Private Sub txtUsuario_MouseHover(sender As Object, e As EventArgs) Handles txtUsuario.MouseHover
-        ToolTip.SetToolTip(txtUsuario, "Ingrese La contraseña")
+        ToolTip.SetToolTip(txtUsuario, "Ingrese el usuario Ejemplo:Sandra")
         ToolTip.ToolTipTitle = "Contraseña"
         ToolTip.ToolTipIcon = ToolTipIcon.Info
     End Sub
 
     Private Sub txtContrasena_MouseHover(sender As Object, e As EventArgs) Handles txtContrasena.MouseHover
-        ToolTip.SetToolTip(txtContrasena, "Ingrese La contraseña")
+        ToolTip.SetToolTip(txtContrasena, "Ingrese La contraseña Ejemplo: 2020S")
         ToolTip.ToolTipTitle = "Contraseña"
         ToolTip.ToolTipIcon = ToolTipIcon.Info
     End Sub
