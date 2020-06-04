@@ -1,0 +1,16 @@
+C:\Users\Pascall\Documents\programasentonosvisuales\TAREA_PEDIDOS_E_Inventario\bin\Debug\TAREA_PEDIDOS_E_Inventario.exe.config
+C:\Users\Pascall\Documents\programasentonosvisuales\TAREA_PEDIDOS_E_Inventario\bin\Debug\TAREA_PEDIDOS_E_Inventario.exe
+C:\Users\Pascall\Documents\programasentonosvisuales\TAREA_PEDIDOS_E_Inventario\bin\Debug\TAREA_PEDIDOS_E_Inventario.pdb
+C:\Users\Pascall\Documents\programasentonosvisuales\TAREA_PEDIDOS_E_Inventario\bin\Debug\TAREA_PEDIDOS_E_Inventario.xml
+C:\Users\Pascall\Documents\programasentonosvisuales\TAREA_PEDIDOS_E_Inventario\obj\Debug\TAREA_PEDIDOS_E_Inventario.vbprojAssemblyReference.cache
+C:\Users\Pascall\Documents\programasentonosvisuales\TAREA_PEDIDOS_E_Inventario\obj\Debug\TAREA_PEDIDOS_E_Inventario.Factura.resources
+C:\Users\Pascall\Documents\programasentonosvisuales\TAREA_PEDIDOS_E_Inventario\obj\Debug\TAREA_PEDIDOS_E_Inventario.Resources.resources
+C:\Users\Pascall\Documents\programasentonosvisuales\TAREA_PEDIDOS_E_Inventario\obj\Debug\TAREA_PEDIDOS_E_Inventario.REGISTRO_PEDIDOS.resources
+C:\Users\Pascall\Documents\programasentonosvisuales\TAREA_PEDIDOS_E_Inventario\obj\Debug\TAREA_PEDIDOS_E_Inventario.Registro_producto.resources
+C:\Users\Pascall\Documents\programasentonosvisuales\TAREA_PEDIDOS_E_Inventario\obj\Debug\TAREA_PEDIDOS_E_Inventario.vbproj.GenerateResource.cache
+C:\Users\Pascall\Documents\programasentonosvisuales\TAREA_PEDIDOS_E_Inventario\obj\Debug\TAREA_PEDIDOS_E_Inventario.vbproj.CoreCompileInputs.cache
+C:\Users\Pascall\Documents\programasentonosvisuales\TAREA_PEDIDOS_E_Inventario\obj\Debug\TAREA_PEDIDOS_E_Inventario.exe
+C:\Users\Pascall\Documents\programasentonosvisuales\TAREA_PEDIDOS_E_Inventario\obj\Debug\TAREA_PEDIDOS_E_Inventario.xml
+C:\Users\Pascall\Documents\programasentonosvisuales\TAREA_PEDIDOS_E_Inventario\obj\Debug\TAREA_PEDIDOS_E_Inventario.pdb
+C:\Users\Pascall\Documents\programasentonosvisuales\TAREA_PEDIDOS_E_Inventario\obj\Debug\TAREA_PEDIDOS_E_Inventario.principal.resources
+C:\Users\Pascall\Documents\programasentonosvisuales\TAREA_PEDIDOS_E_Inventario\obj\Debug\TAREA_PEDIDOS_E_Inventario.login.resources
