@@ -80,10 +80,17 @@
       <DependentUpon>Ejercici04.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Ejercici3.Designer.vb">
+      <DependentUpon>Ejercici3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercici3.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
       <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <Compile Include="My Project\Resources.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -99,6 +106,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Ejercici04.resx">
       <DependentUpon>Ejercici04.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercici3.resx">
+      <DependentUpon>Ejercici3.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
