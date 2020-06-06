@@ -45,4 +45,8 @@
         ToolTip.ToolTipIcon = ToolTipIcon.Info
 
     End Sub
+
+    Private Sub login_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
 End Class
