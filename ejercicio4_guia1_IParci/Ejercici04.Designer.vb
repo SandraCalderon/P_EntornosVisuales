@@ -55,7 +55,7 @@ Partial Class Ejercici04
         Me.btnSalir.Name = "btnSalir"
         Me.btnSalir.Size = New System.Drawing.Size(75, 23)
         Me.btnSalir.TabIndex = 10
-        Me.btnSalir.Text = "Salir"
+        Me.btnSalir.Text = "Regresar"
         Me.btnSalir.UseVisualStyleBackColor = True
         '
         'Label7
@@ -243,7 +243,7 @@ Partial Class Ejercici04
         Me.cmbNumeros.Size = New System.Drawing.Size(121, 21)
         Me.cmbNumeros.TabIndex = 1
         '
-        'Form1
+        'Ejercici04
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
@@ -257,7 +257,7 @@ Partial Class Ejercici04
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.MaximizeBox = False
         Me.MinimizeBox = False
-        Me.Name = "Form1"
+        Me.Name = "Ejercici04"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Ingreso de Numeros"
         Me.GroupBox3.ResumeLayout(False)

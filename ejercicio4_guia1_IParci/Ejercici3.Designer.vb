@@ -45,6 +45,7 @@ Partial Class Ejercici3
         Me.txtAlmacen1 = New System.Windows.Forms.TextBox()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.GroupBox2 = New System.Windows.Forms.GroupBox()
+        Me.cmbMedia = New System.Windows.Forms.ListBox()
         Me.txtMedia = New System.Windows.Forms.TextBox()
         Me.Label11 = New System.Windows.Forms.Label()
         Me.Label12 = New System.Windows.Forms.Label()
@@ -53,7 +54,6 @@ Partial Class Ejercici3
         Me.btnCalcular = New System.Windows.Forms.Button()
         Me.ErrorValidacion = New System.Windows.Forms.ErrorProvider(Me.components)
         Me.ToolTip = New System.Windows.Forms.ToolTip(Me.components)
-        Me.cmbMedia = New System.Windows.Forms.ListBox()
         Me.GroupBox1.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
         CType(Me.ErrorValidacion, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -263,8 +263,17 @@ Partial Class Ejercici3
         Me.GroupBox2.TabStop = False
         Me.GroupBox2.Text = "Salida"
         '
+        'cmbMedia
+        '
+        Me.cmbMedia.FormattingEnabled = True
+        Me.cmbMedia.Location = New System.Drawing.Point(193, 48)
+        Me.cmbMedia.Name = "cmbMedia"
+        Me.cmbMedia.Size = New System.Drawing.Size(129, 134)
+        Me.cmbMedia.TabIndex = 5
+        '
         'txtMedia
         '
+        Me.txtMedia.Enabled = False
         Me.txtMedia.Location = New System.Drawing.Point(193, 19)
         Me.txtMedia.Name = "txtMedia"
         Me.txtMedia.Size = New System.Drawing.Size(100, 20)
@@ -295,7 +304,7 @@ Partial Class Ejercici3
         Me.btnSalir.Name = "btnSalir"
         Me.btnSalir.Size = New System.Drawing.Size(75, 23)
         Me.btnSalir.TabIndex = 4
-        Me.btnSalir.Text = "Salir"
+        Me.btnSalir.Text = "Regresar"
         Me.btnSalir.UseVisualStyleBackColor = True
         '
         'btnNuevo
@@ -321,14 +330,6 @@ Partial Class Ejercici3
         'ErrorValidacion
         '
         Me.ErrorValidacion.ContainerControl = Me
-        '
-        'cmbMedia
-        '
-        Me.cmbMedia.FormattingEnabled = True
-        Me.cmbMedia.Location = New System.Drawing.Point(193, 48)
-        Me.cmbMedia.Name = "cmbMedia"
-        Me.cmbMedia.Size = New System.Drawing.Size(129, 134)
-        Me.cmbMedia.TabIndex = 5
         '
         'Ejercici3
         '

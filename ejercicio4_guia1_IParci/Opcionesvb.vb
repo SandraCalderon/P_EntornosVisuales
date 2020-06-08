@@ -28,4 +28,9 @@
         Ejercici04.Show()
         Me.Hide()
     End Sub
+
+    Private Sub SueldoToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles SueldoToolStripMenuItem.Click
+        Ejercicio05.Show()
+        Me.Hide()
+    End Sub
 End Class

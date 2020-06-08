@@ -24,16 +24,17 @@ Partial Class Opcionesvb
     Private Sub InitializeComponent()
         Me.MenuStrip1 = New System.Windows.Forms.MenuStrip()
         Me.InicioToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.Ejercicio01ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.Ejercicio02ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.Ejercicio03ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.Ejercicio04ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.Ejercicio05ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.SalirToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.Ejercicio01ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.CalculadoraBasicaToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.Ejercicio02ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.FormulaGeneralCuadraticaToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.Ejercicio03ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.CalculoDeLaMediaDeVentasToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.Ejercicio04ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.IngresoDeNumerosToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.Ejercicio05ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.SueldoToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -53,12 +54,24 @@ Partial Class Opcionesvb
         Me.InicioToolStripMenuItem.Size = New System.Drawing.Size(48, 20)
         Me.InicioToolStripMenuItem.Text = "Inicio"
         '
+        'SalirToolStripMenuItem
+        '
+        Me.SalirToolStripMenuItem.Name = "SalirToolStripMenuItem"
+        Me.SalirToolStripMenuItem.Size = New System.Drawing.Size(96, 22)
+        Me.SalirToolStripMenuItem.Text = "Salir"
+        '
         'Ejercicio01ToolStripMenuItem
         '
         Me.Ejercicio01ToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.CalculadoraBasicaToolStripMenuItem})
         Me.Ejercicio01ToolStripMenuItem.Name = "Ejercicio01ToolStripMenuItem"
         Me.Ejercicio01ToolStripMenuItem.Size = New System.Drawing.Size(78, 20)
         Me.Ejercicio01ToolStripMenuItem.Text = "Ejercicio 01"
+        '
+        'CalculadoraBasicaToolStripMenuItem
+        '
+        Me.CalculadoraBasicaToolStripMenuItem.Name = "CalculadoraBasicaToolStripMenuItem"
+        Me.CalculadoraBasicaToolStripMenuItem.Size = New System.Drawing.Size(173, 22)
+        Me.CalculadoraBasicaToolStripMenuItem.Text = "Calculadora Basica"
         '
         'Ejercicio02ToolStripMenuItem
         '
@@ -67,12 +80,24 @@ Partial Class Opcionesvb
         Me.Ejercicio02ToolStripMenuItem.Size = New System.Drawing.Size(75, 20)
         Me.Ejercicio02ToolStripMenuItem.Text = "Ejercicio02"
         '
+        'FormulaGeneralCuadraticaToolStripMenuItem
+        '
+        Me.FormulaGeneralCuadraticaToolStripMenuItem.Name = "FormulaGeneralCuadraticaToolStripMenuItem"
+        Me.FormulaGeneralCuadraticaToolStripMenuItem.Size = New System.Drawing.Size(221, 22)
+        Me.FormulaGeneralCuadraticaToolStripMenuItem.Text = "Formula General Cuadratica"
+        '
         'Ejercicio03ToolStripMenuItem
         '
         Me.Ejercicio03ToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.CalculoDeLaMediaDeVentasToolStripMenuItem})
         Me.Ejercicio03ToolStripMenuItem.Name = "Ejercicio03ToolStripMenuItem"
         Me.Ejercicio03ToolStripMenuItem.Size = New System.Drawing.Size(78, 20)
         Me.Ejercicio03ToolStripMenuItem.Text = "Ejercicio 03"
+        '
+        'CalculoDeLaMediaDeVentasToolStripMenuItem
+        '
+        Me.CalculoDeLaMediaDeVentasToolStripMenuItem.Name = "CalculoDeLaMediaDeVentasToolStripMenuItem"
+        Me.CalculoDeLaMediaDeVentasToolStripMenuItem.Size = New System.Drawing.Size(231, 22)
+        Me.CalculoDeLaMediaDeVentasToolStripMenuItem.Text = "Calculo de la media de ventas"
         '
         'Ejercicio04ToolStripMenuItem
         '
@@ -81,51 +106,38 @@ Partial Class Opcionesvb
         Me.Ejercicio04ToolStripMenuItem.Size = New System.Drawing.Size(78, 20)
         Me.Ejercicio04ToolStripMenuItem.Text = "Ejercicio 04"
         '
+        'IngresoDeNumerosToolStripMenuItem
+        '
+        Me.IngresoDeNumerosToolStripMenuItem.Name = "IngresoDeNumerosToolStripMenuItem"
+        Me.IngresoDeNumerosToolStripMenuItem.Size = New System.Drawing.Size(179, 22)
+        Me.IngresoDeNumerosToolStripMenuItem.Text = "Ingreso de numeros"
+        '
         'Ejercicio05ToolStripMenuItem
         '
+        Me.Ejercicio05ToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.SueldoToolStripMenuItem})
         Me.Ejercicio05ToolStripMenuItem.Name = "Ejercicio05ToolStripMenuItem"
         Me.Ejercicio05ToolStripMenuItem.Size = New System.Drawing.Size(78, 20)
         Me.Ejercicio05ToolStripMenuItem.Text = "Ejercicio 05"
         '
-        'SalirToolStripMenuItem
+        'SueldoToolStripMenuItem
         '
-        Me.SalirToolStripMenuItem.Name = "SalirToolStripMenuItem"
-        Me.SalirToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
-        Me.SalirToolStripMenuItem.Text = "Salir"
-        '
-        'CalculadoraBasicaToolStripMenuItem
-        '
-        Me.CalculadoraBasicaToolStripMenuItem.Name = "CalculadoraBasicaToolStripMenuItem"
-        Me.CalculadoraBasicaToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
-        Me.CalculadoraBasicaToolStripMenuItem.Text = "Calculadora Basica"
-        '
-        'FormulaGeneralCuadraticaToolStripMenuItem
-        '
-        Me.FormulaGeneralCuadraticaToolStripMenuItem.Name = "FormulaGeneralCuadraticaToolStripMenuItem"
-        Me.FormulaGeneralCuadraticaToolStripMenuItem.Size = New System.Drawing.Size(221, 22)
-        Me.FormulaGeneralCuadraticaToolStripMenuItem.Text = "Formula General Cuadratica"
-        '
-        'CalculoDeLaMediaDeVentasToolStripMenuItem
-        '
-        Me.CalculoDeLaMediaDeVentasToolStripMenuItem.Name = "CalculoDeLaMediaDeVentasToolStripMenuItem"
-        Me.CalculoDeLaMediaDeVentasToolStripMenuItem.Size = New System.Drawing.Size(231, 22)
-        Me.CalculoDeLaMediaDeVentasToolStripMenuItem.Text = "Calculo de la media de ventas"
-        '
-        'IngresoDeNumerosToolStripMenuItem
-        '
-        Me.IngresoDeNumerosToolStripMenuItem.Name = "IngresoDeNumerosToolStripMenuItem"
-        Me.IngresoDeNumerosToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
-        Me.IngresoDeNumerosToolStripMenuItem.Text = "Ingreso de numeros"
+        Me.SueldoToolStripMenuItem.Name = "SueldoToolStripMenuItem"
+        Me.SueldoToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.SueldoToolStripMenuItem.Text = "Sueldo"
         '
         'Opcionesvb
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackColor = System.Drawing.SystemColors.ActiveCaption
         Me.ClientSize = New System.Drawing.Size(559, 300)
         Me.Controls.Add(Me.MenuStrip1)
         Me.MainMenuStrip = Me.MenuStrip1
+        Me.MaximizeBox = False
+        Me.MinimizeBox = False
         Me.Name = "Opcionesvb"
-        Me.Text = "Opcionesvb"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
+        Me.Text = "Menu principal"
         Me.MenuStrip1.ResumeLayout(False)
         Me.MenuStrip1.PerformLayout()
         Me.ResumeLayout(False)
@@ -145,4 +157,5 @@ Partial Class Opcionesvb
     Friend WithEvents Ejercicio04ToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents IngresoDeNumerosToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents Ejercicio05ToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents SueldoToolStripMenuItem As ToolStripMenuItem
 End Class
