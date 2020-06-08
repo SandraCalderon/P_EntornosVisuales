@@ -86,6 +86,18 @@
     <Compile Include="Ejercici3.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="ejercicio01.Designer.vb">
+      <DependentUpon>ejercicio01.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ejercicio01.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ejercicio2.Designer.vb">
+      <DependentUpon>ejercicio2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ejercicio2.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -102,6 +114,12 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="Opcionesvb.Designer.vb">
+      <DependentUpon>Opcionesvb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Opcionesvb.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Ejercici04.resx">
@@ -110,11 +128,20 @@
     <EmbeddedResource Include="Ejercici3.resx">
       <DependentUpon>Ejercici3.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ejercicio01.resx">
+      <DependentUpon>ejercicio01.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ejercicio2.resx">
+      <DependentUpon>ejercicio2.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Opcionesvb.resx">
+      <DependentUpon>Opcionesvb.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

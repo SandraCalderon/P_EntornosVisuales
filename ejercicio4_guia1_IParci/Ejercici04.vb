@@ -39,12 +39,8 @@
     End Sub
 
     Private Sub btnSalir_Click(sender As Object, e As EventArgs) Handles btnSalir.Click
-        Dim salir As String
-
-        salir = MsgBox("¿Esta seguro que desea salir?", 36, "SALIR")
-        If salir = 6 Then
-            End
-        End If
+        Opcionesvb.Show()
+        Me.Hide()
 
     End Sub
 

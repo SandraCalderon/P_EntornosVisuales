@@ -11,3 +11,6 @@ C:\Users\Pascall\Documents\ejercicostareas\ejercicio4_guia1_IParci\bin\Debug\eje
 C:\Users\Pascall\Documents\ejercicostareas\ejercicio4_guia1_IParci\bin\Debug\ejercicio4_guia1_IParci.exe
 C:\Users\Pascall\Documents\ejercicostareas\ejercicio4_guia1_IParci\bin\Debug\ejercicio4_guia1_IParci.pdb
 C:\Users\Pascall\Documents\ejercicostareas\ejercicio4_guia1_IParci\bin\Debug\ejercicio4_guia1_IParci.xml
+C:\Users\Pascall\Documents\ejercicostareas\ejercicio4_guia1_IParci\obj\Debug\ejercicio4_guia1_IParci.ejercicio01.resources
+C:\Users\Pascall\Documents\ejercicostareas\ejercicio4_guia1_IParci\obj\Debug\ejercicio4_guia1_IParci.ejercicio2.resources
+C:\Users\Pascall\Documents\ejercicostareas\ejercicio4_guia1_IParci\obj\Debug\ejercicio4_guia1_IParci.Opcionesvb.resources
